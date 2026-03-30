@@ -1,0 +1,1 @@
+This is just a basic rest api. Kalmahan mo lang tih. Try to create a basic rest API without referring to another API that's already created. Try to code things by referring to the documentation and not other people's work. Wag kang tangaaa HAHAHAH
